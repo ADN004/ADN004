@@ -58,11 +58,20 @@ Operational layer: Docker Compose orchestration, automated compressed `pg_dump` 
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ADN004&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADN004&layout=compact&hide_border=true&langs_count=6&hide=html,css" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ADN004&hide_border=true" alt="GitHub Streak" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ADN004&show_icons=true&hide_border=true&count_private=true&theme=github_dark&bg_color=00000000">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ADN004&show_icons=true&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ADN004&layout=compact&hide_border=true&langs_count=6&hide=html,css&theme=github_dark&bg_color=00000000">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADN004&layout=compact&hide_border=true&langs_count=6&hide=html,css&bg_color=00000000" alt="Top Languages">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ADN004&hide_border=true&theme=github-dark-blue&background=00000000">
+  <img src="https://streak-stats.demolab.com?user=ADN004&hide_border=true&background=00000000" alt="GitHub Streak">
+</picture>
+
+</div>
