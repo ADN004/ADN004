@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Adityan Nair
@@ -7,7 +6,8 @@
 
 I build backend systems and ship them to production — web platforms, automation bots, and the infrastructure they run on.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityan-nair)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityan-nair/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ADN004bot)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adityanche@gmail.com)
 
 </div>
@@ -17,14 +17,14 @@ I build backend systems and ship them to production — web platforms, automatio
 ## What I Do
 
 - **Build full-stack applications** — React.js frontends, Node.js/Express and Django backends, PostgreSQL data layers
-- **Run production services** — a Telegram bot suite serving active daily users, containerized with Docker Compose on Ubuntu VPS, with automated PostgreSQL backups and zero-downtime deploy workflows
+- **Run production services** — a Telegram bot suite serving active daily users, containerized with Docker Compose on Ubuntu VPS, with automated PostgreSQL backups
 - **Automate everything** — scheduled jobs, AI-assisted verification pipelines, subscription billing logic, file delivery systems
 
-Diploma in Computer Science Engineering — Government Polytechnic College Palakkad (2023–2026).
+Diploma in Computer Science Engineering — Government Polytechnic College Palakkad (2023–2026)
 
 ## Tech Stack
 
-| | |
+|  |  |
 |:---|:---|
 | **Languages** | Python · JavaScript · SQL · C/C++ |
 | **Frontend** | React.js · Bootstrap · HTML/CSS |
@@ -35,6 +35,7 @@ Diploma in Computer Science Engineering — Government Polytechnic College Palak
 ## Featured Work
 
 ### State Placement Cell Portal
+
 > 🥇 **1st Place — CSI PROFEST 2026** (National-Level Project Expo) · Led 4-member team
 
 Centralized placement platform for **52+ Kerala polytechnic colleges**. Companies post openings, students apply, and institutions manage the full placement pipeline — applications, shortlists, offer letters (PDF generation), and email notifications — from one system.
@@ -42,6 +43,7 @@ Centralized placement platform for **52+ Kerala polytechnic colleges**. Companie
 `React.js` `Node.js` `Express` `PostgreSQL` `PDFKit` `Nodemailer`
 
 ### Telegram Bot Suite — Production SaaS
+
 > Private repos · Live with active daily users
 
 Self-hosted suite of automation bots running 24/7 on Ubuntu VPS:
@@ -57,6 +59,10 @@ Operational layer: Docker Compose orchestration, automated compressed `pg_dump` 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADN004&layout=compact&hide_border=true&langs_count=6&hide=html,css" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ADN004&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADN004&layout=compact&hide_border=true&langs_count=6&hide=html,css" alt="Top Languages" />
 </p>
-```
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ADN004&hide_border=true" alt="GitHub Streak" />
+</p>
