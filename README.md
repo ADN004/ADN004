@@ -2,7 +2,7 @@
 
 # Adityan Nair
 
-**Full Stack Developer @ Trenser Technologies** &nbsp;·&nbsp; Kerala, India
+**Aspiring Software Developer @ Trenser Technologies** &nbsp;·&nbsp; Kerala, India
 
 I build backend systems and ship them to production — web platforms, automation bots, and the infrastructure they run on.
 
